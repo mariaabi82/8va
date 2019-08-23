@@ -67,7 +67,7 @@ img{
 .portfolio{
     padding-top: 200px;
     padding-bottom: 50px;
-    height: 300px;
+    height: 600px;
     background-color: white;
     padding-top: 50px;
     text-align: center;
@@ -79,10 +79,27 @@ img{
     padding-right: 40px;
     padding-top: 40px;
     padding-bottom: 40px;
-    size: 30%;
+    size: 500%;
     
 }
+.cake{
+    display: inline-block;
+}
 
+.circus{
+    display: inline-block;
+}
+
+.game{
+    display: inline-block;
+}
+.safe{
+    display: inline-block;
+}
+
+.submarine{
+    display: inline-block;
+}
 
 .about{
     padding-top: 200px;
@@ -96,7 +113,6 @@ img{
 
 .about1{
     display: inline-block;
-    width: 60px;
     height: 70px;
    
 }
