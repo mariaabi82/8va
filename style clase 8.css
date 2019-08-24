@@ -76,7 +76,7 @@ a:link {
 .alineado{
     display: inline-block;
     width: 300px;
-    border: 20px solid transparent;
+    margin: 30px solid transparent;
     
 }
  .alineado img{
@@ -88,16 +88,24 @@ a:link {
 
 .about{
     padding-top: 200px;
-    padding-bottom: 50px;
-    height: 300px;
+    height: 350px;
     background-color: #1abc9c;
     padding-top: 50px;
     text-align: center;
     color: white;
 }
 
-.about1{
+.about-text{
     display: inline-block;
     height: 70px;
-   
+    width: 300px;
+    text-align: left;
+}
+
+
+.contact{
+    background-color:#343a40;
+    height: 300px;
+    color: white;
+    text-align: center;
 }
