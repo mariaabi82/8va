@@ -73,33 +73,17 @@ img{
     text-align: center;
     color: #343a40;
 }
-.cabin{
+.alineado{
     display: inline-block;
-    padding-left: 50px;
-    padding-right: 40px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    size: 500%;
+    border: 20px solid transparent;
     
 }
-.cake{
-    display: inline-block;
-}
+ .alineado img{
+     width: 20%;
+     height: auto;
+     border-radius: 5px;
+ }
 
-.circus{
-    display: inline-block;
-}
-
-.game{
-    display: inline-block;
-}
-.safe{
-    display: inline-block;
-}
-
-.submarine{
-    display: inline-block;
-}
 
 .about{
     padding-top: 200px;
