@@ -60,7 +60,7 @@ a:link {
 }
 
 
-img{
+.img-perfil{
     width: 100px;
 }
 
@@ -75,11 +75,12 @@ img{
 }
 .alineado{
     display: inline-block;
+    width: 300px;
     border: 20px solid transparent;
     
 }
  .alineado img{
-     width: 20%;
+     width: 100%;
      height: auto;
      border-radius: 5px;
  }
