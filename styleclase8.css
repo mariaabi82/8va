@@ -22,7 +22,16 @@ p{
 .header{
     background-color:#343a40;
     height: 75px;
-    color: white
+    width: 100%;
+    color: white;
+    position: fixed;
+    top:0px;
+}
+
+.contactheader{
+    position: relative;
+    right: 10px;
+
 }
 
 a:link {
@@ -52,7 +61,7 @@ a:link {
 .main{
     padding-top: 200px;
     padding-bottom: 50px;
-    height: 300px;
+    height: 400px;
     background-color: #1abc9c;
     padding-top: 50px;
     text-align: center;
@@ -62,6 +71,7 @@ a:link {
 
 .img-perfil{
     width: 100px;
+    padding-top: 50px;
 }
 
 .portfolio{
@@ -72,6 +82,8 @@ a:link {
     padding-top: 50px;
     text-align: center;
     color: #343a40;
+ 
+    
 }
 .alineado{
     display: inline-block;
@@ -88,11 +100,12 @@ a:link {
 
 .about{
     padding-top: 200px;
-    height: 350px;
+    height: 400px;
     background-color: #1abc9c;
     padding-top: 50px;
     text-align: center;
     color: white;
+    
 }
 
 .about-text{
@@ -108,4 +121,6 @@ a:link {
     height: 300px;
     color: white;
     text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
 }
