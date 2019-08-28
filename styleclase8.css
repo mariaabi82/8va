@@ -28,10 +28,26 @@ p{
     top:0px;
 }
 
-.contactheader{
-    position: relative;
-    right: 10px;
+.ada{
+    position:fixed;
+    left: 15px;
+}
+.portfolioheader{
+    position:fixed;
+    right: 300px;
+    top: 25px;
+}
 
+.aboutheader{
+    position:fixed;
+    right: 180px;
+    top: 25px;
+}
+
+.contactheader{
+    position: fixed;
+    right: 20px;
+    top: 10px;
 }
 
 a:link {
